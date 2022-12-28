@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/test-tailwindcss/static/css/main.b0e124c4.css",
+    "main.js": "/test-tailwindcss/static/js/main.c6f1cfe7.js",
+    "static/js/787.99609032.chunk.js": "/test-tailwindcss/static/js/787.99609032.chunk.js",
+    "static/media/logo-dark-mode.svg": "/test-tailwindcss/static/media/logo-dark-mode.f5363383bf279490c4ab.svg",
+    "static/media/logo-light-mode.svg": "/test-tailwindcss/static/media/logo-light-mode.bf1475bf7fb04ee7e886.svg",
+    "index.html": "/test-tailwindcss/index.html",
+    "static/media/bg-curvy-dark-mode.svg": "/test-tailwindcss/static/media/bg-curvy-dark-mode.953dbf39a0ba9d537f9d.svg",
+    "static/media/bg-curvy-light-mode.svg": "/test-tailwindcss/static/media/bg-curvy-light-mode.21f6ac40745d13777b1f.svg",
+    "main.b0e124c4.css.map": "/test-tailwindcss/static/css/main.b0e124c4.css.map",
+    "main.c6f1cfe7.js.map": "/test-tailwindcss/static/js/main.c6f1cfe7.js.map",
+    "787.99609032.chunk.js.map": "/test-tailwindcss/static/js/787.99609032.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0e124c4.css",
+    "static/js/main.c6f1cfe7.js"
+  ]
+}
